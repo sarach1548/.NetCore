@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\js\\tasks.js",
+      "PackagePath": "staticwebassets\\js\\tasks.js"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\js\\users.js",
+      "PackagePath": "staticwebassets\\js\\users.js"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\tasks.html",
+      "PackagePath": "staticwebassets\\tasks.html"
+    },
+    {
+      "Id": "Z:\\B\\אינגלסברג בת שבע\\2024-04-03\\.NetCoreHomework\\wwwroot\\users.html",
+      "PackagePath": "staticwebassets\\users.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.myTask.props",
+      "PackagePath": "build\\myTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.myTask.props",
+      "PackagePath": "buildMultiTargeting\\myTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.myTask.props",
+      "PackagePath": "buildTransitive\\myTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.myTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
